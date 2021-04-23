@@ -1,5 +1,5 @@
 
-<h1># Assignment 3</h1>
+<h1># Homework 3</h1>
 
 Basic Part
 <br>
