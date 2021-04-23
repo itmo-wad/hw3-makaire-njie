@@ -1,4 +1,4 @@
-# Web Development
+# WAD
 # Homework 3
 Name: Makaire Njie
 <br>
